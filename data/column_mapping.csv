@@ -1,0 +1,28 @@
+existing,new
+Timestamp,timestamp
+What is your gender?,gender
+What is the geographic scope of the policy you’re describing?,geography
+Which US state do you reside in?,us_state
+Which Canadian Province / Territory do you reside in?,ca_prov
+Does the parental leave policy you're describing include an element of short term disability (STD) cover?,std_incl
+The company whose policy I am describing is a:,company_type
+What is the name of the company whose policy you are describing?,company_name
+Unique company identifier,company_code
+Do you know the date from which this policy has been in force?,in_force_from
+"For STD maternity leave, how long in weeks does policy give you off for a vaginal birth with short term disability?",std_vag_wks
+"For STD maternity leave, how long in weeks does policy give you off for a caesarean section birth with short term disability?",std_cae_wks
+"For STD maternity leave, what the the full pay equivalent duration in weeks which is paid, taking into account periods of partial payment?",std_pay_wks
+How many weeks (paid or unpaid) does the policy provide for Maternity / Primary Caregiver Leave?,mat_leave_wks
+"For Maternity / Primary Caregiver Leave, what the the full pay equivalent duration in weeks which is paid, taking into account periods of partial payment?",mat_pay_wks
+"If your company requires you to give notice of pregnancy within a certain period, what is the minimum number of weeks before the due date which is required?",mat_notice_wks
+What is the minimum number of weeks of service to qualify for Maternity / Primary Caregiver Leave?,mat_service_wks
+"If you leave the company within a certain time period, do you have to pay back your Maternity / Primary Caregiver Leave benefits? If so, enter the number of weeks after return to work within which you would be expected to repay",mat_clawback_wks
+Are bonuses and/or raises pro-rated if you’re away on leave for part of the year? ,mat_bonus_prorata
+How many weeks (paid or unpaid) does the policy provide for Paternity / Secondary Caregiver Leave?,pat_leave_wks
+"For Paternity / Secondary Caregiver Leave?, what the the full pay equivalent duration in weeks which is paid, taking into account periods of partial payment?",pat_pay_wks
+What is the minimum number of weeks of service to qualify for Paternity / Secondary Caregiver Leave?,pat_service_wks
+"If you leave the company within a certain time period, do you have to pay back your Paternity / Secondary Caregiver Leave benefits? If so, enter the number of weeks after return to work within which you would be expected to repay",pat_clawback_wks
+Are bonuses and/or raises pro-rated if you’re away on Paternity / Secondary Caregiver Leave for part of the year? ,pat_bonus_prorata
+Does any of the parental leave policy described  also apply to fostering?,foster_incl
+Does any of the parental leave policy described  also apply to adoptions?,adopt_incl
+"If you have any other comments you’d like to include with your response, please type them here.",comments
