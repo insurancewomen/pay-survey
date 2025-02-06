@@ -26,10 +26,9 @@ pals.
 
 [Take the survey]("https://forms.gle/cXHLYn26WNC9pXks8")
 
-I am happy to work with companies to ensure that the information is accurate
-and up-to-date. If you're a company representative and would like to provide
-information about your parental leave policy, please reach out to me on
-Instagram. Please note that I will require evidence of the policy in order
-to mark it as verified.
+> [!IMPORTANT]
+> I am happy to work with companies to ensure that the information is accurate and up-to-date. If you're a company representative and would like to provide information about your parental leave policy, please reach out to me on Instagram. Please note that I will require evidence of the policy in order to mark it as verified.
 
 [InsuranceWomen on Instagram](https://www.instagram.com/insurancewomen/")
+
+~ IW
