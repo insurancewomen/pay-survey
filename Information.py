@@ -22,7 +22,15 @@ st.markdown("""
             benefits). The results are made available in a searchable table,
             allowing you to filter by country, company, and various other
             factors to find the information you need.
+            """)
 
+st.page_link(
+    "pages/01_🗳️_Results_Table.py",
+    label="Click here to see the results",
+    icon=":material/table_view:",
+)
+
+st.markdown("""
             I hope this study will serve as a living document that will be
             continually updated as policies change. If your company is not
             listed, please click the link below to take the survey! After you've
@@ -42,7 +50,8 @@ st.warning(
     and up-to-date. If you're a company representative and would like to provide
     information about your parental leave policy, please reach out to me on
     Instagram. Please note that I will require evidence of the policy in order
-    to mark it as verified.
+    to mark it as verified - but that it will then get a very special badge /
+    place in the app to distinguish it from the other responses.
     """,
     icon=":material/warning:",
 )
